@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: black;
+}
+p {
+  color: black;
+}
+.qualquercoisa {
+    margin-top: -20%;
+      margin-left: 35%;
+        color: black;
+}
+.imagem {
+    margin-left: 10%;
+    margin-top: 15%;
+}
+
+.frase {
+    margin-left: 10%;
+    margin-top: 20%;
+}
